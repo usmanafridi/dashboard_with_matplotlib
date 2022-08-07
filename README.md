@@ -6,3 +6,6 @@
 <br />
 
 <p> In this repository, I have provided a step-by-step guide of how you can make beautiful dashboards with Just Python's famous Matplotlib library. Feel free to clone this repo and make beautiful Dashboards with Matplotlib's Gridspec function. </p>
+
+<img src="https://github.com/usmanafridi/dashboard_with_matplotlib/blob/main/Dashboard_With_Matplotlib.png" alt="Image" width="1200" height="1000">
+
